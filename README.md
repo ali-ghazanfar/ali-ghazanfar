@@ -8,8 +8,6 @@ I have a Bachelor's degree in IT from SBBU SBA. The reason behind choosing this 
 
 Outside the world of development, I am an avid bird lover, enjoying playing badminton and competing in FIFA.
 
-Technologies I love to work with are REACT, NODE (EXPRESS), POSTGRES, and AWS.
-
 ## Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
