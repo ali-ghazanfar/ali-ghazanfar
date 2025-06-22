@@ -1,20 +1,9 @@
 # Salamunalaikum 👋
 
-With hands-on experience in both frontend (React.js, Next.js) and backend (Node.js) development, I specialize in crafting seamless digital experiences.
-
-Currently, I’m diving deep into the world of cloud with AWS, aiming to master the art of bringing scalable, robust solutions to life.
-
-I have a Bachelor's degree in IT from SBBU SBA. The reason behind choosing this domain for its transformative impact on the world.
-
-Outside the world of development, I am an avid bird lover, enjoying playing badminton and competing in FIFA.
-
-## Languages
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+I’m a passionate Backend Engineer who loves to build high-performance APIs and scalable architectures that power real-world applications. With hands-on experience across the JavaScript stack — from Node.js on the backend to React on the frontend — I bring a full-system perspective to every project.
 
 ## Technology Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,postgres,mongodb,aws,docker)](https://skillicons.dev)
 
 ## 🔗 Links
 [![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ali-ghazanfar/)
