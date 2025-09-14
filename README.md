@@ -15,4 +15,4 @@ To me, backend engineering isn’t just about writing code, it’s about designi
 Outside of engineering, you’ll probably find me diving into car reviews or competing in FIFA.
 
 ## Technology Stack
-[![SkillIcons](https://skillicons.dev/icons?i=python,django,nodejs,postgres,aws,docker,git)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=python,django,redis,graphql,postgres,aws,cloudflare,docker)](https://skillicons.dev)
