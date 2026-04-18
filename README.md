@@ -1,4 +1,4 @@
-# Salamunalaikum 👋
+# Hi there 👋,
 
 I’m a Python Full Stack Engineer with production-grade experience building scalable, high-performance web applications.
 
