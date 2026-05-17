@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I’m a Python Full Stack Engineer with production-grade experience building scalable, high-performance web applications.
+I’m a Python Full Stack AI Engineer with production-grade experience building scalable, high-performance web applications.
 
 On the backend, I develop robust REST and GraphQL APIs using Django (DRF), with a core stack that includes PostgreSQL for relational data, Redis for caching, Celery for background task processing, and WebSockets for real-time communication.
 
